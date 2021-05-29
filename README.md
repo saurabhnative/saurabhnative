@@ -52,11 +52,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Important points for optimising websites using webpack](https://coderwhodreams.hashnode.dev/important-points-for-optimising-websites-using-webpack)
-- [Learn about content editable CSS attribute and how it is used to make editors for blogging websites in this post.](https://coderwhodreams.hashnode.dev/learn-about-content-editable-css-attribute-and-how-it-is-used-to-make-editors-for-blogging-websites-in-this-post)
-- [Learn how to build Christmas greeting using CSS Animations](https://coderwhodreams.hashnode.dev/learn-how-to-build-christmas-greeting-using-css-animations)
-- [Contribute to Hacktoberfest by building 15 mini web apps](https://coderwhodreams.hashnode.dev/contribute-to-hacktoberfest-by-building-15-mini-web-apps)
-- [Things I learnt while learning UI design as a frontend developer](https://coderwhodreams.hashnode.dev/things-i-learnt-while-learning-ui-design-as-a-frontend-developer)
+- [Fundamentals of Javascript - Part 1](https://saurabhnative.hashnode.dev/fundamentals-of-javascript-part-1)
+- [Solving LeetCode array problems using Javascript Part 2](https://saurabhnative.hashnode.dev/solving-leetcode-array-problems-using-javascript-part-2)
+- [A definitive guide to Git and Github - Part 1](https://saurabhnative.hashnode.dev/a-definitive-guide-to-git-and-github-part-1)
+- [How to port a React website to a mobile app in less than 5 minutes using Capacitor.js](https://saurabhnative.hashnode.dev/how-to-port-a-react-website-to-a-mobile-app-in-less-than-5-minutes-using-capacitorjs)
+- [Build stories feed app using react.js - Part 3](https://saurabhnative.hashnode.dev/build-stories-feed-app-using-reactjs-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
