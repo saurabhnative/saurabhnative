@@ -52,11 +52,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of Javascript - Part 2(Why should you use let instead of var keyword)](https://saurabhnative.hashnode.dev/fundamentals-of-javascript-part-2why-should-you-use-let-instead-of-var-keyword)
 - [Fundamentals of Javascript - Part 1](https://saurabhnative.hashnode.dev/fundamentals-of-javascript-part-1)
 - [Solving LeetCode array problems using Javascript Part 2](https://saurabhnative.hashnode.dev/solving-leetcode-array-problems-using-javascript-part-2)
 - [A definitive guide to Git and Github - Part 1](https://saurabhnative.hashnode.dev/a-definitive-guide-to-git-and-github-part-1)
 - [How to port a React website to a mobile app in less than 5 minutes using Capacitor.js](https://saurabhnative.hashnode.dev/how-to-port-a-react-website-to-a-mobile-app-in-less-than-5-minutes-using-capacitorjs)
-- [Build stories feed app using react.js - Part 3](https://saurabhnative.hashnode.dev/build-stories-feed-app-using-reactjs-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
