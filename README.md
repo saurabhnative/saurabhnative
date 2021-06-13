@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Backend Tutorial: Create backend for Twitter clone using Node.js(express) and HarperDB](https://www.youtube.com/watch?v=DLftEcoUAgQ)
 - [Solving Leetcode array problems using Javascript - Part 4](https://www.youtube.com/watch?v=9F0g3aB-_hU)
 - [Learn how to import and use local object data in react](https://www.youtube.com/watch?v=Advo7M0qwsw)
 - [Unboxing TPLink Archer C6(AC1200) Wifi router](https://www.youtube.com/watch?v=ahi9EtyEvjg)
 - [Christmas greeting card preview #shorts](https://www.youtube.com/watch?v=99499Idwk88)
-- [Stories Feed App Demo #shorts](https://www.youtube.com/watch?v=5gO0br8oO7U)
 <!-- YOUTUBE:END -->
 
 ---
