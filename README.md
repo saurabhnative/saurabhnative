@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Twitter Clone made using Node.js, Harper DB and React.js #shorts](https://www.youtube.com/watch?v=6uuz0CILGHc)
+- [LeetCode Problems - Part 5 (Remove Duplicates from Sorted Array)](https://www.youtube.com/watch?v=zKcNYIsrq4s)
 - [Backend Tutorial: Create backend for Twitter clone using Node.js(express) and HarperDB](https://www.youtube.com/watch?v=DLftEcoUAgQ)
 - [Solving Leetcode array problems using Javascript - Part 4](https://www.youtube.com/watch?v=9F0g3aB-_hU)
 - [Learn how to import and use local object data in react](https://www.youtube.com/watch?v=Advo7M0qwsw)
-- [Unboxing TPLink Archer C6(AC1200) Wifi router](https://www.youtube.com/watch?v=ahi9EtyEvjg)
-- [Christmas greeting card preview #shorts](https://www.youtube.com/watch?v=99499Idwk88)
 <!-- YOUTUBE:END -->
 
 ---
