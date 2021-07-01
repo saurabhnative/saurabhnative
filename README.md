@@ -52,11 +52,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of Javascript - Part 2(Why should you use let instead of var keyword)](https://saurabhnative.hashnode.dev/fundamentals-of-javascript-part-2why-should-you-use-let-instead-of-var-keyword)
-- [Fundamentals of Javascript - Part 1](https://saurabhnative.hashnode.dev/fundamentals-of-javascript-part-1)
-- [Solving LeetCode array problems using Javascript Part 2](https://saurabhnative.hashnode.dev/solving-leetcode-array-problems-using-javascript-part-2)
-- [A definitive guide to Git and Github - Part 1](https://saurabhnative.hashnode.dev/a-definitive-guide-to-git-and-github-part-1)
-- [How to port a React website to a mobile app in less than 5 minutes using Capacitor.js](https://saurabhnative.hashnode.dev/how-to-port-a-react-website-to-a-mobile-app-in-less-than-5-minutes-using-capacitorjs)
+- [Food delivery website using HERN stack](https://saurabhnative.hashnode.dev/food-delivery-website-using-hern-stack-1)
+- [Leetcode Array Problem Solutions-part 4 (Remove Duplicates From Sorted Array)](https://saurabhnative.hashnode.dev/leetcode-array-problem-solutions-part-4-remove-duplicates-from-sorted-array)
+- [Create frontend for Twitter clone using React.js](https://saurabhnative.hashnode.dev/create-frontend-for-twitter-clone-using-reactjs)
+- [Create backend for Twitter clone using Node.js (express.js) and HarperDB with Heroku deployment](https://saurabhnative.hashnode.dev/create-backend-for-twitter-clone-using-nodejs-expressjs-and-harperdb-with-heroku-deployment)
+- [Javascript Fundamentals - Part 4(Logical operators)](https://saurabhnative.hashnode.dev/javascript-fundamentals-part-4logical-operators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
