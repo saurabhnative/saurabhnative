@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leet Code Problem Solutions - Part 6 - Sort Array By Parity and Remove Element from array](https://www.youtube.com/watch?v=7Ce4yf9M_fY)
+- [Food Delivery App built using React, Node.js and HarperDB #shorts](https://www.youtube.com/watch?v=dnji_DxST7s)
 - [Twitter Clone made using Node.js, Harper DB and React.js #shorts](https://www.youtube.com/watch?v=6uuz0CILGHc)
 - [LeetCode Problems - Part 5 (Remove Duplicates from Sorted Array)](https://www.youtube.com/watch?v=zKcNYIsrq4s)
 - [Backend Tutorial: Create backend for Twitter clone using Node.js(express) and HarperDB](https://www.youtube.com/watch?v=DLftEcoUAgQ)
-- [Solving Leetcode array problems using Javascript - Part 4](https://www.youtube.com/watch?v=9F0g3aB-_hU)
-- [Learn how to import and use local object data in react](https://www.youtube.com/watch?v=Advo7M0qwsw)
 <!-- YOUTUBE:END -->
 
 ---
