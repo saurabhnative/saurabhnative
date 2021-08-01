@@ -52,11 +52,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learnings from daily dev job - Part 1](https://saurabhnative.hashnode.dev/learnings-from-daily-dev-job-part-1)
+- [Two websites which can help in improving README of your Github projects](https://saurabhnative.hashnode.dev/two-websites-which-can-help-in-improving-readme-of-your-github-projects)
+- [Leetcode Array Problem Solutions - Part 7 (Third Maximum Number)](https://saurabhnative.hashnode.dev/leetcode-array-problem-solutions-part-7-third-maximum-number)
+- [Top 4 platforms to host websites for free](https://saurabhnative.hashnode.dev/top-4-platforms-to-host-websites-for-free)
 - [Food delivery website using HERN stack](https://saurabhnative.hashnode.dev/food-delivery-website-using-hern-stack-1)
-- [Leetcode Array Problem Solutions-part 4 (Remove Duplicates From Sorted Array)](https://saurabhnative.hashnode.dev/leetcode-array-problem-solutions-part-4-remove-duplicates-from-sorted-array)
-- [Create frontend for Twitter clone using React.js](https://saurabhnative.hashnode.dev/create-frontend-for-twitter-clone-using-reactjs)
-- [Create backend for Twitter clone using Node.js (express.js) and HarperDB with Heroku deployment](https://saurabhnative.hashnode.dev/create-backend-for-twitter-clone-using-nodejs-expressjs-and-harperdb-with-heroku-deployment)
-- [Javascript Fundamentals - Part 4(Logical operators)](https://saurabhnative.hashnode.dev/javascript-fundamentals-part-4logical-operators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
