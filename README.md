@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crypto Price Listing Website using Vite.js, Tailwind and Jquery - Part 2](https://www.youtube.com/watch?v=wa2qQboEISo)
+- [Crypto Price Listing Website using Tailwind and Jquery - Part1(Figma To Code)](https://www.youtube.com/watch?v=vOO4D28FsLY)
 - [Leetcode Array problem solutions - Part 8](https://www.youtube.com/watch?v=Wxy7TwD0HGM)
 - [LeetCode Array Problem Solutions - Part 7(Third Maximum Number)](https://www.youtube.com/watch?v=5g3Ow62oYb0)
 - [Leet Code Problem Solutions - Part 6 - Sort Array By Parity and Remove Element from array](https://www.youtube.com/watch?v=7Ce4yf9M_fY)
-- [Food Delivery App built using React, Node.js and HarperDB #shorts](https://www.youtube.com/watch?v=dnji_DxST7s)
-- [Twitter Clone made using Node.js, Harper DB and React.js #shorts](https://www.youtube.com/watch?v=6uuz0CILGHc)
 <!-- YOUTUBE:END -->
 
 ---
