@@ -52,11 +52,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualising the simplest Math problem no one can solve using React.js](https://saurabhnative.hashnode.dev/visualising-the-simplest-math-problem-no-one-can-solve-using-reactjs)
+- [My journey to writing a technical article with more than 450k views](https://saurabhnative.hashnode.dev/my-journey-to-writing-a-technical-article-with-more-than-450k-views)
 - [Introducing README gen - Most advanced README generator for your opensource projects ✨️](https://saurabhnative.hashnode.dev/introducing-readme-gen-most-advanced-readme-generator-for-your-opensource-projects)
 - [10 useful sections to improve your Github README files](https://saurabhnative.hashnode.dev/10-useful-sections-to-improve-your-github-readme-files)
 - [Good software engineering practices -  part 2](https://saurabhnative.hashnode.dev/good-software-engineering-practices-part-2)
-- [Learnings from daily dev job - Part 1](https://saurabhnative.hashnode.dev/learnings-from-daily-dev-job-part-1)
-- [Two websites which can help in improving README of your Github projects](https://saurabhnative.hashnode.dev/two-websites-which-can-help-in-improving-readme-of-your-github-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
