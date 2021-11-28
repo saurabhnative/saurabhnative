@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NFT Card component built using react.js.Github:- saurabhnative/nft-preview-card-component](https://www.youtube.com/watch?v=Ge_UcpMunQA)
 - [How to implement user authentication in MERN stack - Part 1](https://www.youtube.com/watch?v=wX-xwaeJk0c)
 - [Learn how to create charts in React.js&lpar;Recharts&rpar; for the simplest unsolvable Mathematical problem](https://www.youtube.com/watch?v=hFtZO9i5lG4)
 - [Introducing README Gen - a tool to build amazing README files for your open source projects](https://www.youtube.com/watch?v=4XD_d9twdlk)
 - [Crypto Price Listing Website using Vite.js, Tailwind and Jquery - Part 2](https://www.youtube.com/watch?v=wa2qQboEISo)
-- [Crypto Price Listing Website using Tailwind and Jquery - Part1&lpar;Figma To Code&rpar;](https://www.youtube.com/watch?v=vOO4D28FsLY)
 <!-- YOUTUBE:END -->
 
 ---
