@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to play Wordle and a few tips to solve Wordle faster](https://www.youtube.com/watch?v=aXDGYjWb1YI)
 - [Generator Functions In Javascript - Web development Interview Questions](https://www.youtube.com/watch?v=u4nlEYOwmtc)
 - [My goals for Jan 2022 | Solidity | GraphQL | SpringBoot](https://www.youtube.com/watch?v=sjIO-Rs9gYs)
 - [Difference between regular function and arrow functions - Web development Interview Questions](https://www.youtube.com/watch?v=sHXnnj9_hsg)
 - [NFT Card component built using react.js.Github:- saurabhnative/nft-preview-card-component](https://www.youtube.com/watch?v=Ge_UcpMunQA)
-- [How to implement user authentication in MERN stack - Part 1](https://www.youtube.com/watch?v=wX-xwaeJk0c)
 <!-- YOUTUBE:END -->
 
 ---
