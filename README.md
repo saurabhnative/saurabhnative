@@ -1,8 +1,8 @@
-### Hi there, I am [Saurabh Mhatre](https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g) 👋
+### Hi there, I am [Saurabh Mhatre](https://www.youtube.com/c/SaurabhNative) 👋
 
 ## I am a Frontend Developer, Mentor, Open Source Contributor and Content Creator
 
-- I am currently working on [LeetCode Problems Series](https://www.youtube.com/playlist?list=PLZ1FmiaTE30UMt-EZBzW8xIUYuhLYUwBL) on Youtube.
+- I am currently working on creating educational content on [Youtube](https://www.youtube.com/c/SaurabhNative).
 - I have experience in technologies like React, Node.js and ReactNative.
 - I initially created this account for adding repositories related to blog articles and at present use it for updating learning resources for online lectures. You can join official discord workspace for learning frontend development or for asking technical doubts here: [Discord Community](https://discord.gg/thktGPRMT9)
 - Fun fact: I also create web based games in spare time. Here's are few ones which I made recently
